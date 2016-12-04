@@ -1,0 +1,10 @@
+{
+  "googleMaps": {
+    "path": "https://maps.googleapis.com/maps/api/geocode/json",
+    "key": "AIzaSyCoarwvzw_pZCN2sq7vHvzfXdHSyBL_oKs"
+  },
+  "weather": {
+    "path": "https://api.darksky.net/forecast",
+    "key": "de1b309031de25657b7ea9a70ab53a76"
+  }
+}
